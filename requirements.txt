@@ -1,0 +1,11 @@
+agora-token-builder==1.0.0
+asgiref==3.4.1
+Django==4.0.1
+sqlparse==0.4.2
+tzdata==2021.5
+daphne==3.0.2  # Required if using Django Channels for WebSockets
+channels==3.0.4  # Needed for handling WebSockets
+channels-redis==3.3.1  # Needed if using Redis as a channel layer
+gunicorn==20.1.0  # Required for running Django on Render
+whitenoise==6.3.0  # For serving static files
+psycopg2-binary==2.9.3  # Required if using PostgreSQL on Render
