@@ -6,9 +6,7 @@ This is a **Video Conferencing Web App** built using **Django**. It allows users
 ## 🚀 Features
 - User authentication (login/register)
 - Create or join video conferences
-- Real-time video and audio streaming
-- Chat functionality during meetings
-- Screen sharing option
+- Real-time video and audio streamig
 - Room management with unique meeting links
 - Responsive UI for different devices
 
@@ -34,7 +32,7 @@ video-conference-django/
 ## 🏗️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/deepraj16/video-conference-django.git
+git clone https://github.com/deepraj16/Video-conference-django.git
 cd video-conference-django
 ```
 
