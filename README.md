@@ -34,7 +34,7 @@ video-conference-django/
 ## 🏗️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/video-conference-django.git
+git clone https://github.com/deepraj16/video-conference-django.git
 cd video-conference-django
 ```
 
