@@ -58,9 +58,6 @@ python manage.py createsuperuser  # Create an admin user
 python manage.py runserver
 ```
 
-### 6️⃣ Open in Browser
-Go to: **http://127.0.0.1:8000/**
-
 ## 📜 License
 This project is open-source under the **MIT License**.
 
